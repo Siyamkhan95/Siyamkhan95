@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Siyamkhan95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Siyam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Siyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Siyam/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Siyamkhan95)   
 
 ### Hi there 👋, I'm Siyam
 #### Web Developer
@@ -9,6 +9,8 @@
 I am passionate frontend developer with a creative eye for design and a knack for crafting delightful user experiences. I thrive on transforming ideas into beautiful and functional websites and web applications.
 
 My journey as a frontend developer has been an exciting ride, constantly learning and adapting to the ever-evolving web technologies. From HTML, CSS, and JavaScript to modern frameworks like React.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Siyam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Siyam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Siyam/) 
 
 Skills: REACT / JS / HTML / CSS
 
