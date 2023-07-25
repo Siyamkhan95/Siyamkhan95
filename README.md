@@ -1,9 +1,8 @@
 
+![Web Developer](https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-6/321461144_615671997226838_445912496540896833_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFlu8ACxI8lnnXbWyHPukj9KzYqLSHRxQYrNiotIdHFBqFUvoBcTKV_MJCbQpceXQLpCLlZHvgxFQ1ridYm_zPX&_nc_ohc=YlymjFJueioAX9kRpK_&_nc_ht=scontent.fdac15-1.fna&oh=00_AfDDO1IsjQ3Lg9bEG9n0A1NJ0z3UFePQoCwtVOLRObbBNA&oe=64C3AB91)
 
 ### Hi there 👋, I'm Siyam
 #### Web Developer
-![Web Developer](https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-6/321461144_615671997226838_445912496540896833_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFlu8ACxI8lnnXbWyHPukj9KzYqLSHRxQYrNiotIdHFBqFUvoBcTKV_MJCbQpceXQLpCLlZHvgxFQ1ridYm_zPX&_nc_ohc=YlymjFJueioAX9kRpK_&_nc_ht=scontent.fdac15-1.fna&oh=00_AfDDO1IsjQ3Lg9bEG9n0A1NJ0z3UFePQoCwtVOLRObbBNA&oe=64C3AB91)
-
  Hello there! Welcome...
 
 I am passionate frontend developer with a creative eye for design and a knack for crafting delightful user experiences. I thrive on transforming ideas into beautiful and functional websites and web applications.
